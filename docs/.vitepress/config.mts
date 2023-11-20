@@ -5,6 +5,11 @@ export default defineConfig({
   title: "CDU Document",
   description: "A Document",
   head: [["link", { rel: "icon", href: "/favicon.png" }]],
+  themeConfig: {
+    search: {
+      provider: "local",
+    },
+  },
   locales: {
     root: {
       label: "English",
