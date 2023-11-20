@@ -4,6 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "CDU Document",
   description: "A Document",
+  head: [["link", { rel: "icon", href: "/favicon.png" }]],
   locales: {
     root: {
       label: "English",
@@ -40,7 +41,7 @@ export default defineConfig({
         ],
 
         socialLinks: [
-          { icon: "github", link: "https://github.com/vuejs/vitepress" },
+          { icon: "twitter", link: "https://twitter.com/CDU_money" },
         ],
       },
     },
@@ -80,7 +81,7 @@ export default defineConfig({
         ],
 
         socialLinks: [
-          { icon: "github", link: "https://github.com/vuejs/vitepress" },
+          { icon: "twitter", link: "https://twitter.com/CDU_money" },
         ],
       },
     },
