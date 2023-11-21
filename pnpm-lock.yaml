@@ -6,8 +6,8 @@ settings:
 
 devDependencies:
   vitepress:
-    specifier: 1.0.0-rc.28
-    version: registry.npmmirror.com/vitepress@1.0.0-rc.28(@algolia/client-search@4.20.0)(search-insights@2.11.0)
+    specifier: 1.0.0-rc.29
+    version: registry.npmmirror.com/vitepress@1.0.0-rc.29(@algolia/client-search@4.20.0)(search-insights@2.11.0)
 
 packages:
 
@@ -1130,11 +1130,11 @@ packages:
       fsevents: registry.npmmirror.com/fsevents@2.3.3
     dev: true
 
-  registry.npmmirror.com/vitepress@1.0.0-rc.28(@algolia/client-search@4.20.0)(search-insights@2.11.0):
-    resolution: {integrity: sha512-cB0DNhX1jgmyZxPSrH5E+YpgpSlLuDL4ec9UjeqTe/Si1+MEvIJRgifB0RjGfojKa+gkSo97nLO6WN+iFgtgXQ==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/vitepress/-/vitepress-1.0.0-rc.28.tgz}
-    id: registry.npmmirror.com/vitepress/1.0.0-rc.28
+  registry.npmmirror.com/vitepress@1.0.0-rc.29(@algolia/client-search@4.20.0)(search-insights@2.11.0):
+    resolution: {integrity: sha512-6sKmyEvH16SgMqkHzRwwadt9Uju13AOIqouzOVEg3Rk6X9mds6jLsq2GxnAJvg0s6bl/0Qs/cw+f8SNki82ltw==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/vitepress/-/vitepress-1.0.0-rc.29.tgz}
+    id: registry.npmmirror.com/vitepress/1.0.0-rc.29
     name: vitepress
-    version: 1.0.0-rc.28
+    version: 1.0.0-rc.29
     hasBin: true
     peerDependencies:
       markdown-it-mathjax3: ^4.3.2

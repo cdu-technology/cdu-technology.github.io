@@ -9,12 +9,13 @@ export default defineConfig({
     search: {
       provider: "local",
     },
+    i18nRouting: true,
   },
   locales: {
     root: {
       label: "English",
       lang: "en",
-      link: "/background/",
+      // link: "/",
       themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
@@ -52,8 +53,8 @@ export default defineConfig({
     },
     cn: {
       label: "繁体中文",
-      // lang: "cn", // optional, will be added  as `lang` attribute on `html` tag
-      link: "/cn/background/", // default /fr/ -- shows on navbar translations menu, can be external
+      lang: "cn", // optional, will be added  as `lang` attribute on `html` tag
+      // link: "/cn/background/", // default /fr/ -- shows on navbar translations menu, can be external
 
       themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
