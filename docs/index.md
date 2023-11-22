@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: English Document
-      link: /
+      link: /background/
     - theme: alt
       text: 中文文檔
       link: /cn/background/
