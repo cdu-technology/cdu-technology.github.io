@@ -1,39 +1,9 @@
-# 背景 （中文）
+# 背景
 
-# h1 标题
+## 欺诈频发
 
-## h2 标题
+根據連鎖分析報告顯示，2021 年加密貨幣犯罪涉案金額將高達 140 億美元，詐欺案件造成的損失將高達 78 億美元，較去年同期成長 82%-年。 詐欺損失增加的最重要原因是 Rug Pull 的出現(指加密貨幣開發商、DEX 流動性池撤回支持或突然放棄某個項目，在沒有警告的情況下拿走投資者的資金)。 超過 28 億美元的損失來自 Rug Pull 的詐欺手段，佔 36%，而 2020 年這一比例僅為 1%。
 
-### h3 标题
+## MEME 崛起
 
-## 文本样式
-
-**This is bold text**
-
-**This is bold text**
-
-## 列表
-
-无序
-
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    - Ac tristique libero volutpat at
-    * Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-- Very easy!
-
-有序
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-
-4. You can use sequential numbers...
-5. ...or keep all the numbers as `1.`
-
-Start numbering with offset:
-
-57. foo
-1. bar
+MEME 代幣的崛起不僅是因為其敘事邏輯和社群驅動的模式更容易引起共鳴，也是對傳統金融體系的挑戰。 許多投資者厭倦了傳統金融市場的操縱和不公平競爭。 尋找新的投資機會和表現形式，充分體現了去中心化的價值。 未來的加密貨幣市場.社區和公平分配的概念將佔據主導地位。

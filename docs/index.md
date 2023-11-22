@@ -3,21 +3,21 @@
 layout: home
 
 hero:
-  name: "CDU Document"
-  text: "A Document of CDU"
-  tagline: My great project tagline
+  name: Clear Debt USD (CDU)
+  text: International MEME currency-the concept of issuing currency to repay debts
+  tagline: An experiment to solve the economic lending crisis in the AI ​​era
   actions:
     - theme: brand
-      text: English
-      link: /background/
+      text: English Document
+      link: /
     - theme: alt
-      text: 繁体中文
+      text: 中文文檔
       link: /cn/background/
 features:
-  - title: Feature Mint
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Automatic Appreciation
+    details: Appreciation in value as minting quantity increases according to formula
+  - title: Automatic market making
+    details: 50% of the contract investment is cast into the Dex black hole, and an additional 20% is added for market making.
+  - title: The total amount is constant
+    details: The total amount of CDU is constant at 105 trillion
 ---

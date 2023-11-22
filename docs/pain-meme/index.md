@@ -1,18 +1,19 @@
-# Pain points of meme’s world
+# Meme The pain points of the world
 
-The main reason why CDU is sought after by users is that the issuance method of CDU tokens is more fair and equitable. All minting users are treated equally, and the project party cannot reserve and issue additional tokens. Even the issuer, if they want to obtain the issued CDU tokens, they must be the same as ordinary users. Fair casting truly realizes that everyone is an equal participant in the ecology.
+The main reason why CDU is sought after by users is that the issuance method of CDU tokens is more fair and equitable. All minting users are treated equally, and project parties cannot reserve or issue additional tokens. Even issuers, if they want to obtain issued CDU tokens, must be the same as ordinary users. Fair casting truly realizes that everyone is an equal participant in the ecology.
 
-Judging from the existing BRC20 tokens, except for the first token Ordi, MEME tokens with the highest market capitalization, such as $MEME, $PEPE, $PIZA or other tokens, are mainly hype-based and have no real empowerment value. From the perspective of the number of players, the Ordi token holding address with the largest market value is only 20,000, which means that the current number of BRC20 players is relatively small. And BRC20 tokens are essentially NFTs, so they have the common pain points of NFTs. The tokens lack liquidity, and most of them have prices but no markets.
+Judging from the existing BRC20 tokens, except for the first token Ordi, the MEME tokens with the highest market value, such as $MEME, $PEPE, $PIZA or other tokens, are mainly hype-based and have no real empowerment. value. Judging from the number of players, Ordi token holding addresses with the largest market value only have 20,000, which means that the number of BRC20 players is still relatively small. And BRC20 tokens are essentially NFTs, so they share the same pain points of NFTs. Tokens lack liquidity and most have prices but no market.
 
-Even though BRC20 tokens are so hot, most members of the Ethereum community have not yet participated in BRC20. As the main network public chain with the largest ecology at present, ERC20 tokens naturally have extremely high liquidity, but there has always been a drawback in the ERC20 protocol. The customization of smart contracts may cause some projects to have problems in the token issuance process. Unfair phenomena such as malicious contracts, blocking attacks, and exchange manipulation can disrupt the fairness of token issuance.
+Despite the popularity of the BRC20 token, most members of the Ethereum community are yet to participate in BRC20. As the largest mainnet public chain in the ecosystem, ERC20 tokens naturally have extremely high liquidity, but the ERC20 protocol has always had drawbacks. Customization of smart contracts may cause problems during the token issuance process for some projects. Injustices such as malicious contracts, blockade attacks, and exchange manipulation can disrupt the fairness of token issuance.
+​
 
-Common Rug Pull behaviors:
+## Common rug pulling behaviors:
 
-1. Pot draw
-   That is, after the project party raises the currency price to a certain level, it uses a large number of cheap chips in multiple accounts to withdraw all the funds in the liquidity pool. When the funds in the liquidity pool are drained, it means that this The escape space of tokens is locked, and project investors will rush to step on it due to panic, which will eventually lead to the price of tokens returning to zero, and investors will suffer heavy losses.
+1. Pot Draw
+   That is, after the project team raises the currency price to a certain level, it uses a large number of cheap chips in multiple accounts to withdraw all the funds in the liquidity pool. When the funds in the liquidity pool are drained, it means that the escape space of the token is locked, and project investors will rush in due to panic, which will eventually cause the token price to return to zero, and investors will suffer heavy losses.
 
-2. Pixiu Pond
-   "Pixiu pool" means that the project party uses some special designs to realize the continuous increase in the price of tokens, but they can only be bought but not sold, or only a white list can be sold. As long as entering the market means being successfully harvested, users can only watch the currency price rise but cannot sell it, and the funds will never return.
+2. Pixiu Pool
+   "Pixiu Pool" means that the project team uses some special designs to achieve a continuous increase in the price of tokens, but they can only be bought but not sold, or can only be sold on a whitelist. Just entering the market means successful harvest. Users can only watch the currency price rise but cannot sell, and the funds will never be returned.
 
 3. Contract loopholes
-   The project party has planned to harvest users from the very beginning, so the loopholes have been preset in the early stage of the project. In the later period, the loopholes in the token contract were used, and when the circulation of tokens reached a bottleneck, countless additional tokens were issued instantly, causing the price of the token to plummet, and eventually causing users to be harvested.
+   The project team planned to harvest users from the beginning, so vulnerabilities were preset in the early stages of the project. Later, when the loopholes in the token contract were exploited, when the token circulation reached the bottleneck, countless additional tokens were issued instantly, causing the token price to plummet, and ultimately leading to the harvesting of users.
