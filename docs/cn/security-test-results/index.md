@@ -1,3 +1,5 @@
 # 安全报告
 
-等待主網上線……
+## cointool.app 上的 CDU 协议安全测试结果
+
+![An image](/sec.jpeg)
